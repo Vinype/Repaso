@@ -1,6 +1,7 @@
 body
 {
    font-family: Sourse Sans Pro, sans-serif;
+   margin: 0px;
 }
 h1,
 h2,
@@ -20,6 +21,7 @@ h1
    line-height: 1.5em;
    letter-spacing: -.2px;
    color: white;
+   /* margin: 100px 510px 70px 30px; */
 }  
 
 h1 strong
@@ -37,6 +39,12 @@ h1 strong
    background-color: #1b2127;
 }
 
+.portfolio
+{
+   background: #fafafa;
+ 
+}
+
 .project
 {
    /* border-top: 10px solid red;
@@ -51,7 +59,10 @@ h1 strong
    /* border-top-left-radius: 50px ;
    border-bottom-left-radius: 10px;
    border-bottom-left-radius: 10px; */
-   
+   margin: 10px;
+   margin-bottom: 15px;
+   padding: 20px;
+   background: white;
 }
 
 
